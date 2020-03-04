@@ -1,2 +1,2 @@
 # jdtoolkit-homepage
-Nurbol's repo, bruh.
+Nurbol's repo.
